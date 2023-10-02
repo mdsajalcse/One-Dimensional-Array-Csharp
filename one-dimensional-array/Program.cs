@@ -1,6 +1,8 @@
 ﻿//One Dimensional Array
 
 Console.WriteLine("1-D Array");
+Console.WriteLine("\n");
+Console.WriteLine("Integer Value of One Dimensional Array::");
 
 int[] intArray = new int[10];
 intArray[0] = 1;
@@ -18,6 +20,61 @@ Console.WriteLine("For Loop Apply :");
 
 for(int i = 0; i < intArray.Length; i++)
 {
-    Console.WriteLine("Array Of Length :"+intArray[i]);
+    Console.WriteLine("Array Of Length By For Loop :"+intArray[i]);
 
 }
+Console.WriteLine("\n");
+Console.WriteLine("While Loop Apply:");
+int j=0;
+
+while (j < intArray.Length)
+{
+    Console.WriteLine("Array of Length By While Loop:" +intArray[j]);
+    j++;
+}
+Console.WriteLine("\n");
+Console.WriteLine("Do-While Loop:");
+
+int k = 0;
+do
+{
+    Console.WriteLine("Array of Length By Do-While Loop:" + intArray[k]);
+    k++;
+
+}
+while (k < intArray.Length);
+
+Console.WriteLine("\n");
+Console.WriteLine("For Each Loop:");
+
+foreach(int m in intArray)
+{
+    Console.WriteLine("Array of Length by For Each Loop:" + m); 
+
+}
+{
+
+}
+Console.WriteLine("\n");
+Console.WriteLine("String Type Value of Array:");
+Console.WriteLine("\n");
+
+string[] books = new string[6];
+books[0] = "Physics";
+books[1] = "mathematics";
+books[2] = "Biology";
+books[3] = "information Technology";
+books[4] = "Chemistry";
+books[5] = "history";
+
+Console.WriteLine("For Each Loop Apply:");
+foreach(string book in books)
+{
+    Console.WriteLine("String Array Length:" + book);
+
+}
+
+
+
+
+
