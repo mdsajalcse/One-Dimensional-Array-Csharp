@@ -91,3 +91,8 @@ foreach(int data in intData)
 }
 
 
+Console.WriteLine("Basic input OUtPUt in C#");
+Console.ReadLine();
+Console.WriteLine("Enter Your Array description:");
+Console.ReadKey();
+
