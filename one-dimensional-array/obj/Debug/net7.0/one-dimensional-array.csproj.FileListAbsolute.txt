@@ -1,0 +1,15 @@
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\bin\Debug\net7.0\one-dimensional-array.exe
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\bin\Debug\net7.0\one-dimensional-array.deps.json
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\bin\Debug\net7.0\one-dimensional-array.runtimeconfig.json
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\bin\Debug\net7.0\one-dimensional-array.dll
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\bin\Debug\net7.0\one-dimensional-array.pdb
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.csproj.AssemblyReference.cache
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.AssemblyInfoInputs.cache
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.AssemblyInfo.cs
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.csproj.CoreCompileInputs.cache
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.dll
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\refint\one-dimensional-array.dll
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.pdb
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\one-dimensional-array.genruntimeconfig.cache
+D:\1-D-ArrayOf-CSharp\one-dimensional-array\one-dimensional-array\obj\Debug\net7.0\ref\one-dimensional-array.dll
