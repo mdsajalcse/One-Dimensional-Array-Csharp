@@ -4,7 +4,9 @@ Console.WriteLine("1-D Array");
 Console.WriteLine("\n");
 Console.WriteLine("Integer Value of One Dimensional Array::");
 
-int[] intArray = new int[10];
+ int[] intArray;
+ intArray= new int[10];
+/*int [] intArray = { 20, 25, 30, 50, 60, 70, 80, 90, 100, 0 };*/
 intArray[0] = 1;
 intArray[1] = 2;
 intArray[2] = 3;
@@ -59,7 +61,8 @@ Console.WriteLine("\n");
 Console.WriteLine("String Type Value of Array:");
 Console.WriteLine("\n");
 
-string[] books = new string[6];
+string[] books;
+books = new string[6];
 books[0] = "Physics";
 books[1] = "mathematics";
 books[2] = "Biology";
@@ -75,6 +78,16 @@ foreach(string book in books)
 }
 
 
+Console.WriteLine("\n");
+Console.WriteLine("Another Procedure of Declare One Dimensional Array:");
 
+int[] intData = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+Console.WriteLine("For Each Loop:");
+
+foreach(int data in intData)
+{
+    Console.WriteLine("For each Loop Array:" + data);
+}
 
 
